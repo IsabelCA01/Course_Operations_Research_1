@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pyomo = "==6.6.1"
 pandas = "==1.5.3"
+numpy = "==1.25.0"
+matplotlib = "==3.7.1"
 
 [dev-packages]
 notebook = "==6.5.4"
